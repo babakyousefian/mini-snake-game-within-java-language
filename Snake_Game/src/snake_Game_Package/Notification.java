@@ -26,7 +26,7 @@ public class Notification {
 	public static void Notif() {
 		
 		Selector selector = new Selector();
-		ImageIcon icon = new ImageIcon("snake.jpeg");
+		ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
 		string = selector.getValue();
 		if(string.equalsIgnoreCase("1") || string.equalsIgnoreCase("easy")) {
 			StringBuilder stringBuilder = new StringBuilder();

@@ -202,8 +202,8 @@ public class Main_Snake_Of_Game implements KeyListener{
 		this.game=game;
 		
 		try {
-			snakeImage = ImageIO.read(new File("snakeImage.jpeg"));
-			snakeImage2 = ImageIO.read(new File("snakeImage2.jpeg"));
+			snakeImage = ImageIO.read(new File("pictures//snakeImage.jpeg"));
+			snakeImage2 = ImageIO.read(new File("pictures//snakeImage2.jpeg"));
 		}catch(Exception e) {
 			System.err.println("\n\n File Not Found...!\n\n");
 		}

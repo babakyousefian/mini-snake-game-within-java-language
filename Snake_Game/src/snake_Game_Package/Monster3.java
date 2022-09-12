@@ -58,7 +58,7 @@ public class Monster3 {
 		this.game=game;
 		
 		try {
-			MonsterImage3 = ImageIO.read(new File("MonsterImage3.jpeg"));
+			MonsterImage3 = ImageIO.read(new File("pictures//MonsterImage3.jpeg"));
 		}catch(Exception e) {
 			System.err.println("\n\n File NOT Found...!");
 		}

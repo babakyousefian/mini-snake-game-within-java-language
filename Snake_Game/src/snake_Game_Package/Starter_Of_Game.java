@@ -16,7 +16,7 @@ public class Starter_Of_Game {
 	public void main(String[] args) {
 		
 		try {
-			ImageIcon icon = new ImageIcon("snake.jpeg");
+			ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
 			JOptionPane.showMessageDialog(null , "Welcome to Snake Game" , "Snake Game" , JOptionPane.QUESTION_MESSAGE , icon);
 			setResult(JOptionPane.showConfirmDialog(null , "Do you want to play this game?" , "Snake Game" , JOptionPane.YES_NO_OPTION));
 		}catch(Exception e) {

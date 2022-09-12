@@ -59,7 +59,7 @@ public class Repeat {
 				Notification.Notif();
 				new Main();
 			}else if(x==JOptionPane.NO_OPTION) {
-				ImageIcon icon = new ImageIcon("snake.jpeg");
+				ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
 				JOptionPane.showMessageDialog(null , "Dear "+Name.getName()+"\n"+"Thank you for your spending your time..." ,"Snake Game" , JOptionPane.OK_OPTION , icon);
 			}
 		}catch (Exception e) {

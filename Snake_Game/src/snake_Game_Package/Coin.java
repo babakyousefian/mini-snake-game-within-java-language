@@ -43,7 +43,7 @@ public class Coin {
 		// TODO Auto-generated constructor stub
 		
 		try {
-			coinImage = ImageIO.read(new File("coinImage.jpg"));
+			coinImage = ImageIO.read(new File("pictures//coinImage.jpg"));
 		}catch(Exception e) {
 			System.err.println("\n\n File NOT Found...!");
 		}

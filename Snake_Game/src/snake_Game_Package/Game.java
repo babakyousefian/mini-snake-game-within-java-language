@@ -133,9 +133,9 @@ public class Game extends JPanel implements Runnable , KeyListener{
 		// TODO Auto-generated constructor stub
 		
 		try {
-			gameOverImage = ImageIO.read(new File("gameOver.jpg"));
-			winnerImage = ImageIO.read(new File("winnerImage.jpg"));
-			backImage = ImageIO.read(new File("backImage.jpg"));
+			gameOverImage = ImageIO.read(new File("pictures//gameOver.jpg"));
+			winnerImage = ImageIO.read(new File("pictures//winnerImage.jpg"));
+			backImage = ImageIO.read(new File("pictures//backImage.jpg"));
 		}catch(IOException e) {
 			System.err.println("\n\n File NOT Found...!");
 		}

@@ -54,8 +54,8 @@ public class Player {
 					if(accept==JOptionPane.YES_OPTION) {
 						Repeat.Method_Calculating(accept);
 					}else if(accept==JOptionPane.NO_OPTION) {
-						ImageIcon icon = new ImageIcon("snake.jpeg");
-						ImageIcon babak = new ImageIcon("babakyousefianPicture.jpg");
+						ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
+						ImageIcon babak = new ImageIcon("picturesbabakyousefianPicture.jpg");
 						StringBuilder stringBuilder = new StringBuilder();
 						stringBuilder.append("Dear ");
 						stringBuilder.append(Name.getName());
@@ -79,8 +79,8 @@ public class Player {
 					if(accept==JOptionPane.YES_OPTION) {
 						Repeat.Method_Calculating(accept);
 					}else if(accept==JOptionPane.NO_OPTION) {
-						ImageIcon icon = new ImageIcon("snake.jpeg");
-						ImageIcon babak = new ImageIcon("babakyousefianPicture.jpg");
+						ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
+						ImageIcon babak = new ImageIcon("pictures//babakyousefianPicture.jpg");
 						StringBuilder stringBuilder = new StringBuilder();
 						stringBuilder.append("Dear ");
 						stringBuilder.append(Name.getName());
@@ -104,8 +104,8 @@ public class Player {
 					if(accept==JOptionPane.YES_OPTION) {
 						Repeat.Method_Calculating(accept);
 					}else if(accept==JOptionPane.NO_OPTION) {
-						ImageIcon icon = new ImageIcon("snake.jpeg");
-						ImageIcon babak = new ImageIcon("babakyousefianPicture.jpg");
+						ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
+						ImageIcon babak = new ImageIcon("pictures//babakyousefianPicture.jpg");
 						StringBuilder stringBuilder = new StringBuilder();
 						stringBuilder.append("Dear ");
 						stringBuilder.append(Name.getName());
@@ -142,8 +142,8 @@ public class Player {
 					if(accept==JOptionPane.YES_OPTION) {
 						Repeat.Method_Calculating(accept);
 					}else if(accept==JOptionPane.NO_OPTION) {
-						ImageIcon icon = new ImageIcon("snake.jpeg");
-						ImageIcon babak = new ImageIcon("babakyousefianPicture.jpg");
+						ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
+						ImageIcon babak = new ImageIcon("pictures//babakyousefianPicture.jpg");
 						StringBuilder stringBuilder = new StringBuilder();
 						stringBuilder.append("Dear ");
 						stringBuilder.append(Name.getName());
@@ -167,8 +167,8 @@ public class Player {
 					if(accept==JOptionPane.YES_OPTION) {
 						Repeat.Method_Calculating(accept);
 					}else if(accept==JOptionPane.NO_OPTION) {
-						ImageIcon icon = new ImageIcon("snake.jpeg");
-						ImageIcon babak = new ImageIcon("babakyousefianPicture.jpg");
+						ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
+						ImageIcon babak = new ImageIcon("pictures//babakyousefianPicture.jpg");
 						StringBuilder stringBuilder = new StringBuilder();
 						stringBuilder.append("Dear ");
 						stringBuilder.append(Name.getName());
@@ -192,8 +192,8 @@ public class Player {
 					if(accept==JOptionPane.YES_OPTION) {
 						Repeat.Method_Calculating(accept);
 					}else if(accept==JOptionPane.NO_OPTION) {
-						ImageIcon icon = new ImageIcon("snake.jpeg");
-						ImageIcon babak = new ImageIcon("babakyousefianPicture.jpg");
+						ImageIcon icon = new ImageIcon("pictures//snake.jpeg");
+						ImageIcon babak = new ImageIcon("pictures//babakyousefianPicture.jpg");
 						StringBuilder stringBuilder = new StringBuilder();
 						stringBuilder.append("Dear ");
 						stringBuilder.append(Name.getName());
